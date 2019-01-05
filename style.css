@@ -7,4 +7,31 @@ body {
 
   /* This centers our sketch vertically. */
   align-items: center;
+
+  cursor: none;
+}
+
+#top {
+	position: absolute;
+	top: 10%;
+}
+
+#work {
+	position: absolute;
+	left: 15%;
+}
+
+#play {
+	position: absolute;
+	right: 15%;
+}
+
+p {
+	margin-top: 0;
+	font-size: 50;
+	text-align: center;
+}
+
+span{
+	color: white;
 }
